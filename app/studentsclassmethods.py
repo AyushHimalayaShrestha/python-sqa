@@ -9,3 +9,5 @@ class Students:
 s1 = Students('Ayush',28,'A')
 s1.display_info()
 
+s2 =Students('Ram',20,'B')
+s2.display_info()
