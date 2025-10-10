@@ -1,4 +1,4 @@
-# Custom Execption Example
+# Custom Exception Example
 class InvalidAgeError(Exception):
     pass
 
