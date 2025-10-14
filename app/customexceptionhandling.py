@@ -1,4 +1,4 @@
-# Custom execption handling
+# Custom exception handling
 class InvalidPasswordError(Exception):
     pass
 
